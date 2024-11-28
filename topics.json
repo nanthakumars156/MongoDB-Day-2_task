@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67303680e7b56bcadce632bb"
+  },
+  "topic_id": 1,
+  "topic_name": "Javascrip",
+  "topic_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67303680e7b56bcadce632bc"
+  },
+  "topic_id": 2,
+  "topic_name": "HTML",
+  "topic_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67303680e7b56bcadce632bd"
+  },
+  "topic_id": 3,
+  "topic_name": "CSS",
+  "topic_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  }
+}]

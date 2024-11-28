@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67303851e7b56bcadce632ee"
+  },
+  "mentor_id": 1,
+  "mentor_name": "GURU",
+  "email": "guru01@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67303851e7b56bcadce632ef"
+  },
+  "mentor_id": 2,
+  "mentor_name": "Bramma",
+  "email": "bramma01@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67303851e7b56bcadce632f0"
+  },
+  "mentor_id": 3,
+  "mentor_name": "Deva",
+  "email": "deva01@gmail.com"
+}]

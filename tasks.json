@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632be"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 1,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632bf"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 2,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c0"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 3,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c1"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 4,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c2"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 5,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c3"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 6,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c4"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 7,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c5"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 8,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c6"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 9,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c7"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 10,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c8"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 11,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632c9"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 12,
+  "task": "JS task",
+  "due_date": {
+    "$date": "2024-10-11T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632ca"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 1,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632cb"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 2,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632cc"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 3,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632cd"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 4,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632ce"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 5,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632cf"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 6,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d0"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 7,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d1"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 8,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d2"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 9,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d3"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 10,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d4"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 11,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d5"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 12,
+  "task": "HTML",
+  "due_date": {
+    "$date": "2024-10-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d6"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 1,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d7"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 2,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d8"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 3,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632d9"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 4,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632da"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 5,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632db"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 6,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632dc"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 7,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632dd"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 8,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632de"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 9,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632df"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 10,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632e0"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 11,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "67303752e7b56bcadce632e1"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 12,
+  "task": "CSS",
+  "due_date": {
+    "$date": "2024-11-02T18:30:00.000Z"
+  },
+  "submitted": true
+}]
